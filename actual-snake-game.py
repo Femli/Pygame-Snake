@@ -3,6 +3,7 @@ import sys
 import random
 
 ##this is a test comment to see if it will show up on git
+## another comment for testing
 
 class snake():
     def __init__(self):
