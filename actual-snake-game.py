@@ -2,6 +2,8 @@ import pygame
 import sys
 import random
 
+##this is a test comment to see if it will show up on git
+
 class snake():
     def __init__(self):
         self.position = [100, 50]
