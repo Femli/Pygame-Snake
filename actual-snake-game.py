@@ -2,11 +2,7 @@ import pygame
 import sys
 import random
 
-<<<<<<< HEAD
-## conflict comment 3
-=======
-## conflict comment 1
->>>>>>> overriding online repo changes with local, despite conflicts
+## comment 1
 
 class snake():
     def __init__(self):
