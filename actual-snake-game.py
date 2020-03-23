@@ -2,7 +2,7 @@ import pygame
 import sys
 import random
 
-### once again, we add a comment to see if we can push from local to online repo
+## conflict comment 2
 
 class snake():
     def __init__(self):
