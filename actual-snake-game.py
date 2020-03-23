@@ -2,7 +2,7 @@ import pygame
 import sys
 import random
 
-## conflict comment 2
+## conflict comment 3
 
 class snake():
     def __init__(self):
