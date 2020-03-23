@@ -2,6 +2,8 @@ import pygame
 import sys
 import random
 
+### once again, we add a comment to see if we can push from local to online repo
+
 class snake():
     def __init__(self):
         self.position = [100, 50]
