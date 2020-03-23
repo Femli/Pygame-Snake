@@ -2,12 +2,6 @@ import pygame
 import sys
 import random
 
-<<<<<<< HEAD
-##this is a test comment to see if it will show up on git
-## another comment for testing
-
-=======
->>>>>>> 71e6e71dc282fac5a20677f0ea5e6cc88c1a6cbd
 class snake():
     def __init__(self):
         self.position = [100, 50]
